@@ -1,0 +1,17 @@
+{
+  "name": "smartthings-lambda-iot",
+  "version": "1.0.0",
+  "description": "A lightweight smarthings api abstraction for aws lambda ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@smartthings/smartapp": "^1.0.4",
+    "dotenv": "^7.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
